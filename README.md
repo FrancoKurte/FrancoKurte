@@ -1,5 +1,3 @@
-# Franco Kurte: Building Efficient Systems and Networks
-
 Hello, I'm Franco Kurte, a self-taught software developer passionate about efficient and impactful systems. My interests bridge system programming, performant web development, and biomedical engineering (B.S.), driven by a desire to understand and create across disciplines. My focus is on building robust, high-performance solutions through practical execution and a commitment to efficiency. I value hands-on development, thorough testing, and delivering tangible value with technology.
 
 ## Focus Areas
