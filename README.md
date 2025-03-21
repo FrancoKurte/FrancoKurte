@@ -2,7 +2,7 @@ Hello, I'm Franco Kurte, a self-taught software developer passionate about effic
 
 ## Focus Areas
 
-I specialize in system programming and high-performance applications, particularly in low-level networking with Rust and C.  Currently, I'm developing `rusty-tcp`, a ground-up TCP implementation in Rust for direct network control. My expertise extends to web development, creating full-stack applications with React, Spring Boot (Java), and Django (Python). I also work with databases like PostgreSQL, Redis, and MongoDB to build solid data layers. As a Linux enthusiast, I leverage Arch Linux btw, Hyprland and Neovim :)
+I like system programming and higher level applications.  Currently, I'm developing `rusty-tcp`, a ground-up TCP implementation in Rust for direct network control. My stack covers: web development, creating full-stack applications with React, Spring Boot (Java), and Django (Python). I also work with RDMS like PostgreSQL and MySQL, and other ones like Redis, and MongoDB to build solid data layers. As a Linux enthusiast, I leverage Arch Linux btw, Hyprland and Neovim.
 
 ## Featured Project: rusty-tcp
 
@@ -10,10 +10,10 @@ I specialize in system programming and high-performance applications, particular
 
 ## Technologies
 
-*   **Web Full Stack:** React, TypeScript, Spring Boot (Java), Django, Python
-*   **Systems Programming:** Rust, C, Assembly (x86_64)
-*   **Networking:** Low-level TCP/IP and Packet Analysis
-*   **Database & Backend:** PostgreSQL, Redis, MongoDB
+*   **Web Full Stack:** React, Spring Boot (Java), Django (Python)
+*   **Systems Programming:** Rust, C, Assembly (NASM, x86_64)
+*   **Networking:** Low-level TCP/IP and Packet Analysis (Wireshark)
+*   **Database & Backend:** PostgreSQL, MySQL, Redis, MongoDB
 *   **Linux Environment:** Arch Linux, Hyprland, Neovim
 
 ## Connect
